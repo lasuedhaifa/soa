@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Hentati_Malek_TP1","l":"ClientPackage"},{"m":"Hentati_Malek_TP1","l":"ServerPackage"}];updateSearchResults();
